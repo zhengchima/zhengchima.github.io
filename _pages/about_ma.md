@@ -15,8 +15,9 @@ Duke University
 
 Advisor: [Anru Zhang](https://anruzhang.github.io)
 
-**B.S., Data Science and Big Data Technologies, 2021-2025**
+**B.S., Data Science and Big Data Technologies, 2021–2025**
 
-School of Statistics and Data Science
-Nankai University
+School of Statistics and Data Science  
+Nankai University  
+
 Advisor: Zhaojun Wang
