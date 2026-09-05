@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: Ph.D. Student, Department of Electrical & Computer Engineering, Duke University.
 
